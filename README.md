@@ -6,7 +6,9 @@ REST endpoint that allows an existing user to open a savings account.
  Run: `accounts > mvn spring-boot:run`
 
 ### Tech Stack
+Java 8<br/>
 Spring Boot<br/>
+Spring Data JPA<br/>
 Hibernate<br/>
 H2 in memory db<br/>
  
